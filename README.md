@@ -2,6 +2,11 @@
 
 This repository contains a Python script that detects hand gestures using a webcam and OpenCV. The program uses computer vision techniques to capture hand gestures in real-time and categorize them as "Open Hand" or "Closed Hand."
 
+## A demonstration
+This video demonstrates the functionality of the code that detects whether the hand is open or closed using computer vision techniques. The video shows how the program analyzes hand gestures in real-time and classifies the hand as open or closed.
+
+[Click here to view the video](https://raw.githubusercontent.com/Bugates/Hand-gesture-recognition/refs/heads/main/Open%20and%20closed%20hand.mp4)
+
 ## Features
 - **Real-time Hand Gesture Detection**: Using your webcam, the script identifies hand gestures in front of the camera.
 - **Skin Detection**: The program uses HSV color space to detect skin tones and isolate the hand from the background.
