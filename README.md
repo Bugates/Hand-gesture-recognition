@@ -46,6 +46,6 @@ pip install opencv-python numpy
 Feel free to contribute to this project by forking the repository and submitting pull requests. You can help improve the accuracy of the gesture recognition, optimize the code, or add new features.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 This basic hand gesture recognition system can be a foundation for creating more complex applications, such as controlling devices or interacting with user interfaces using hand gestures.
